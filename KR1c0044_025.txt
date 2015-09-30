@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 欽定詩經傳說彙纂
-#+DATE: 2015-09-23 09:37:01
-#+PROPERTY: JUAN 25
+#+DATE: 2015-08-24 22:06:09.408621
+#+PROPERTY: ID KR1c0044
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 詩序下
 <pb:KR1c0044_WYG_025-1a>¶
 　欽定四庫全書¶
 欽定詩經傳說彚纂¶
@@ -1334,4 +1336,3 @@
 　　　(盛也○嚴氏粲曰廟寢既成以安髙宗之神此蓋/廟成始祔而祭之之詩○劉氏瑾曰髙宗七世親)¶
 　　　(盡而立廟此詩其/作於帝乙之世乎)¶
 欽定詩經傳說彚纂詩序下¶
-

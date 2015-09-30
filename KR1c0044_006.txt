@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 欽定詩經傳說彙纂
-#+DATE: 2015-09-23 09:37:01
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:06:08.832398
+#+PROPERTY: ID KR1c0044
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1c0044_WYG_006-1a>¶
 　欽定四庫全書¶
 欽定詩經傳説彚纂卷四¶
@@ -1514,4 +1516,3 @@
 　　　　　(多賢婦/人矣)¶
 　¶
 欽定詩經傳説彚纂卷四¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 欽定詩經傳說彙纂
-#+DATE: 2015-09-23 09:37:01
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:06:08.960882
+#+PROPERTY: ID KR1c0044
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1c0044_WYG_010-1a>¶
 　欽定四庫全書¶
 欽定詩經傳說彚纂卷八¶
@@ -938,4 +940,3 @@
 　¶
 　¶
 欽定詩經傳說彚纂卷八¶
-
